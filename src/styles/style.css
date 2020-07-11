@@ -1,0 +1,13 @@
+body{
+    background: #246;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 1020px;
+}
+
+h1 {
+    text-align: center;
+    color: #66ff26;
+}
