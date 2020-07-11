@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Gismanus/learnJS/issues"
   },
-  "homepage": "https://github.com/Gismanus/learnJS#readme"
+  "homepage": "https://github.com/Gismanus/learnJS#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
 }
